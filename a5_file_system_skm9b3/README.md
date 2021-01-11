@@ -1,4 +1,4 @@
-Milestone 0: Design
+Milestone 0: Design : https://github.com/SarahMac11/CS4520-Operating_Systems/blob/main/a5_file_system_skm9b3/A5-FSDesign-skm9b3.pdf
 
 Milestone 1: Building Blocks
 
